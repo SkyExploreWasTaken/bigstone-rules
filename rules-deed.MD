@@ -34,6 +34,6 @@
 
 ## Note that this ruleset might get updated at anytime if we decide to
 
-### Last rules edit: 14/09/2025 - 00:00AM / 00:00 GMT+1 (DD/MM/YYYY - 12H / 24H )
+### Last rules edit: 19/09/2025 - 10:00AM / 22:00 GMT+1 (DD/MM/YYYY - 12H / 24H )
 
 Well you did it! Congratulations! This is the end of the rules. If you have any problems with them, you can ask us and discuss about it kindly on the Daxis Discord server.
